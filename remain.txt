@@ -1,0 +1,124 @@
+
+===== TFRMABOUT  (10/42) =====
+TfrmAbout.frmAbout/Font.Name	Tahoma
+TfrmAbout.frmAbout/TLabel.lblURL/Font.Name	Tahoma
+TfrmAbout.frmAbout/TPanel.Panel1/TLabel.Label6/Font.Name	Tahoma
+TfrmAbout.frmAbout/TPanel.Panel2/TLabel.Label1/Font.Name	Tahoma
+
+===== TFRMCONFIG  (122/289) =====
+TfrmConfig.frmConfig/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlGeometry/TLabel.Label9/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlGeometry/TLabel.Label3/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlGeometry/TLabel.Label1/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlGeometry/TLabel.Label8/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlEffects/TLabel.Label5/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlEffects/TLabel.Label4/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlBehaviour/TLabel.Label14/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlBehaviour/TLabel.Label15/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlBehaviour/TLabel.Label16/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.pnlBehaviour/TLabel.Label17/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.TabSheet2/TLabel.Label2/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.TabSheet2/TLabel.Label6/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.TabSheet2/TLabel.Label7/Font.Name	Tahoma
+TfrmConfig.frmConfig/TPageControl.tabs/TTabSheet.TabSheet3/TPageControl.PageControl1/TTabSheet.TabSheet5/TToolBar.ToolBar1/Caption	ToolBar1
+
+===== TFRMCONSOLE  (9/39) =====
+TfrmConsole.frmConsole/Font.Name	Tahoma
+TfrmConsole.frmConsole/TMemo.edtLog/Font.Name	Lucida Console
+TfrmConsole.frmConsole/TToolBar.ToolBar1/Caption	ToolBar1
+TfrmConsole.frmConsole/TPanel.pnlHints/TLabel.lblHints/Font.Name	Tahoma
+TfrmConsole.frmConsole/TPanel.pnlHints/TMemo.edtHints/Font.Name	Lucida Console
+
+===== TFRMEXPORT  (53/256) =====
+TfrmExport.frmExport/Font.Name	Tahoma
+TfrmExport.frmExport/TToolBar.toolbar/TToolButton.separator2/Caption	separator2
+TfrmExport.frmExport/TPanel.pnlPreview/TMemo.edtPreview/Font.Name	Courier New
+TfrmExport.frmExport/TPanel.pnlTop/TPanel.pnlConfig/TToolBar.ToolBar1/Caption	ToolBar1
+TfrmExport.frmExport/TPanel.pnlTop/TPanel.pnlFormats/TPageControl.tabConfig/TTabSheet.tabHeader/TMemo.edtHeader/Font.Name	Courier New
+TfrmExport.frmExport/TPanel.pnlTop/TPanel.pnlFormats/TPageControl.tabConfig/TTabSheet.tabDetail/TMemo.edtDetail/Font.Name	Courier New
+TfrmExport.frmExport/TPanel.pnlTop/TPanel.pnlFormats/TPageControl.tabConfig/TTabSheet.tabFooter/TMemo.edtFooter/Font.Name	Courier New
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Path2/TMenuItem.pathfile1/Caption	<%pathfile%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Path2/TMenuItem.path1/Caption	<%path%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Path2/TMenuItem.file1/Caption	<%file%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Path2/TMenuItem.filename1/Caption	<%filename%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Path2/TMenuItem.fileext1/Caption	<%fileext%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Size2/TMenuItem.logicalsize1/Caption	<%size%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Size2/TMenuItem.logicalsizebytes1/Caption	<%sizebytes%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Size2/TMenuItem.size1/Caption	<%disksize%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Size2/TMenuItem.sizebytes1/Caption	<%disksizebytes%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileCreate1/TMenuItem.filecreatedate2/Caption	<%filecreatedate%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileCreate1/TMenuItem.filecreatedate1/Caption	<%filecreatetime%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileCreate1/TMenuItem.filecreatedatetime2/Caption	<%filecreateage%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileModify1/TMenuItem.filemodifydatetime3/Caption	<%filemodifydate%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileModify1/TMenuItem.filemodifydatetime2/Caption	<%filemodifytime%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileModify1/TMenuItem.filemodifydatetime1/Caption	<%filemodifyage%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileAccess1/TMenuItem.fileaccessdatetime2/Caption	<%fileaccessdate%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileAccess1/TMenuItem.fileaccessdatetime1/Caption	<%fileaccesstime%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.DateandTime1/TMenuItem.FileAccess1/TMenuItem.filecreatedatetime1/Caption	<%fileaccessage%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Attributes1/TMenuItem.isfile1/Caption	<%isfile%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Attributes1/TMenuItem.isfolder1/Caption	<%isfolder%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Attributes1/TMenuItem.iscontainer1/Caption	<%iscontainer%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Attributes1/TMenuItem.isfilecontainer1/Caption	<%containsfiles%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Attributes1/TMenuItem.isfoldercontainer1/Caption	<%containsfolders%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Attributes1/TMenuItem.iscontainercontainer1/Caption	<%containscontainers%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Elementattributes1/TMenuItem.Attributes1/TMenuItem.nestinglevel1/Caption	<%nestinglevel%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.count1/Caption	<%count%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.localcount1/Caption	<%localcount%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.filecount1/Caption	<%filecount%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.localfilecount1/Caption	<%localfilecount%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.foldercount1/Caption	<%foldercount%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.localfoldercount1/Caption	<%localfoldercount%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.containercount1/Caption	<%containercount%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.ags1/TMenuItem.Counters1/TMenuItem.localcontainercount1/Caption	<%localcontainercount%>
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Formatting1/TMenuItem.br1/Caption	{&&br}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Formatting1/TMenuItem.tab1/Caption	{&&tab}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Formatting1/TMenuItem.leftpadtextpadtextlength1/Caption	{leftpad{text}{padtext}{length}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Formatting1/TMenuItem.rightpadtextpadtextlength1/Caption	{rightpad{text}{padtext}{length}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Specialchars1/TMenuItem.curlyop1/Caption	{&&curlyop}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Specialchars1/TMenuItem.curlycl1/Caption	{&&curlycl}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Specialchars1/TMenuItem.angleop1/Caption	{&&angleop}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Specialchars1/TMenuItem.anglecl1/Caption	{&&anglecl}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.script1/Caption	{script}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.nest1/Caption	{nest{text}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if1/Caption	{if{value1}=={value2}?{result}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if2/Caption	{if{value1}!={value2}?{result}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if5/Caption	{if{value1}<{value2}?{result}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if6/Caption	{if{value1}<={value2}?{result}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if7/Caption	{if{value1}>{value2}?{result}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if8/Caption	{if{value1}>={value2}?{result}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if3/Caption	{if{value1}=={value2}?{result}:{else}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if4/Caption	{if{value1}!={value2}?{result}:{else}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if9/Caption	{if{value1}<{value2}?{result}:{else}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if10/Caption	{if{value1}<={value2}?{result}:{else}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if11/Caption	{if{value1}>{value2}?{result}:{else}}
+TfrmExport.frmExport/TPopupMenu.popEdit/TMenuItem.Commands1/TMenuItem.Scripting1/TMenuItem.if12/Caption	{if{value1}>={value2}?{result}:{else}}
+
+===== TFRMHELP  (2/13) =====
+TfrmHelp.frmHelp/Font.Name	Tahoma
+TfrmHelp.frmHelp/TMemo.text/Font.Name	Courier New
+
+===== TFRMMAIN  (54/148) =====
+TfrmMain.frmMain/Caption	SpaceSniffer
+TfrmMain.frmMain/Font.Name	Tahoma
+TfrmMain.frmMain/TToolBar.ToolBar1/Caption	ToolBar1
+TfrmMain.frmMain/TToolBar.ToolBar1/TToolButton.ToolButton2/Caption	ToolButton2
+TfrmMain.frmMain/TToolBar.ToolBar1/TToolButton.ToolButton4/Caption	ToolButton4
+TfrmMain.frmMain/TToolBar.ToolBar1/TToolButton.ToolButton9/Caption	ToolButton9
+TfrmMain.frmMain/TToolBar.ToolBar1/TToolButton.ToolButton10/Caption	ToolButton10
+TfrmMain.frmMain/TToolBar.ToolBar1/TToolButton.ToolButton1/Caption	ToolButton1
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actRefresh/Caption	actRefresh
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actGoHome/Caption	actGoHome
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actZoomOut/Caption	actZoomOut
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actLessDetail/Caption	actLessDetail
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actMoreDetail/Caption	actMoreDetail
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actShowFreeSpace/Caption	actShowFreeSpace
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actShowUnknownSpace/Caption	actShowUnknownSpace
+TfrmMain.frmMain/TActionList.actViewActions/TAction.actFocusRefresh/Caption	actFocusRefresh
+
+===== TFRMSTART  (12/42) =====
+TfrmStart.frmStart/Font.Name	Tahoma
+
+===== TFRMVIEW  (19/75) =====
+TfrmView.frmView/Font.Name	Tahoma
+TfrmView.frmView/TPanel.pnlFilter/TPanel.pnlFilterHeader/TPanel.pnlFilterHeaderRight/TPanel.lblProgress/Font.Name	Tahoma
+TfrmView.frmView/TActionList.actions/TAction.actViewMenuItem/Caption	actViewMenuItem

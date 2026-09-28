@@ -1,0 +1,63 @@
+# 共 62 条唯一待译文本（括号内为出现次数）
+5	Window
+4	ToolBar1
+2	Go parent
+2	Go root
+1	( Please read the Disclaimer and the Quick Start documentation )
+1	Attributes
+1	Causes elements to flash on scan or file system events
+1	Commands
+1	Copyright 2007-2026 Uderzo Umberto
+1	Counters
+1	Date and Time
+1	Featuring:
+1	File access
+1	File create
+1	File modify
+1	Flash elements on scan or events
+1	Formatting
+1	Scripting
+1	Size
+1	SpaceSniffer
+1	SpaceSniffer Snapshot|*.sns|Disk Usage output|*.du
+1	Special chars
+1	TinyXML 2.6.2 by Lee Thomason, Yves Berquin, Andrew Ellerton
+1	ToolButton1
+1	ToolButton10
+1	ToolButton2
+1	ToolButton4
+1	ToolButton9
+1	Treemaps concept by Ben Shneiderman
+1	actFocusRefresh
+1	actGoHome
+1	actLessDetail
+1	actMoreDetail
+1	actRefresh
+1	actShowFreeSpace
+1	actShowUnknownSpace
+1	actViewMenuItem
+1	actZoomOut
+1	separator2
+1	www.uderzo.it
+1	{&&anglecl}
+1	{&&angleop}
+1	{&&br}
+1	{&&curlycl}
+1	{&&curlyop}
+1	{&&tab}
+1	{if{value1}!={value2}?{result}:{else}}
+1	{if{value1}!={value2}?{result}}
+1	{if{value1}<={value2}?{result}:{else}}
+1	{if{value1}<={value2}?{result}}
+1	{if{value1}<{value2}?{result}:{else}}
+1	{if{value1}<{value2}?{result}}
+1	{if{value1}=={value2}?{result}:{else}}
+1	{if{value1}=={value2}?{result}}
+1	{if{value1}>={value2}?{result}:{else}}
+1	{if{value1}>={value2}?{result}}
+1	{if{value1}>{value2}?{result}:{else}}
+1	{if{value1}>{value2}?{result}}
+1	{leftpad{text}{padtext}{length}}
+1	{nest{text}}
+1	{rightpad{text}{padtext}{length}}
+1	{script}
