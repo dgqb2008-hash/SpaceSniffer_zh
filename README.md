@@ -3,7 +3,7 @@
 > 用纯 Python 直接改写 PE 资源与代码段字符串，把 **SpaceSniffer 2.2.0.27** 的界面汉化为简体中文。
 > 无需 Delphi、无需源码、无需资源编辑器（ResHacker / Resource Hacker），全程脚本化、可复现。
 
-![图片描述](OK.png)
+![图片描述](1.png)
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
 ![platform](https://img.shields.io/badge/platform-windows-lightgrey)
